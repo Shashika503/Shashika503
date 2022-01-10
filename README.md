@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking forword to do more collaberate project with companies
+- 👯 I’m looking forward to do more collaberate project with companies
 - 🥅 2022 Goals: Contribute more to Open Source projects and improve my ability
 - ⚡ hobbies: I love to do electronic music composing 
 
