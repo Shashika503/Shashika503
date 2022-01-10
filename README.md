@@ -2,7 +2,7 @@
 
 
 
-## I'm a Human Lover, Developer, Cricket lover and a Coder!!
+## I'm a Human Lover, Web Developer,Coder !!
 
 
 - 🌱 I’m currently learning everything 🤣
