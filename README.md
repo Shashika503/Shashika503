@@ -40,7 +40,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="dotnet" width="26px" src="https://github.com/devicons/devicon/tree/master/icons/threejs" />
+<img align="left" alt="threejs" width="26px" src="https://github.com/devicons/devicon/tree/master/icons/threejs" />
 
 
 [gmail]:https://www.kahatapitiyagsj@gmail.com
