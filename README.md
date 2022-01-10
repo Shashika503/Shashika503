@@ -15,6 +15,7 @@
 [<img align="left" alt="DevKahtz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="DevKahtz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Devkahtz | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
+[<img align="left" alt="Devkahtz | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][Twitter]
 
 <br />
 
@@ -46,4 +47,5 @@
 [gmail]:https://www.kahatapitiyagsj@gmail.com
 [linkedin]: https://www.linkedin.com/in/shashika-kahatapitiya-17a590209/
 [Medium]: https://medium.com/@TechieKahtz
+[Twitter]:https://twitter.com/kahatapitiya45
 
