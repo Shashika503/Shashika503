@@ -29,6 +29,8 @@
 <img align="left" alt="visualstudio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Csharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="dotnet" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" />
+<img align="left" alt="Php" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+<img align="left" alt="Php" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" />
 <img align="left" alt="GoogleCloud" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="pycharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" />
@@ -38,7 +40,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />
+<img align="left" alt="dotnet" width="26px" src="https://github.com/devicons/devicon/tree/master/icons/threejs" />
+
 
 [gmail]:https://www.kahatapitiyagsj@gmail.com
 [linkedin]: https://www.linkedin.com/in/shashika-kahatapitiya-17a590209/
