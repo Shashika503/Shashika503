@@ -2,7 +2,7 @@
 
 
 
-## I'm a Human Lover, Web Developer,Coder !!
+## I'm a Human Lover, Web Developer And a Coder !!
 
 
 - 🌱 I’m currently learning everything 🤣
@@ -11,10 +11,10 @@
 - ⚡ hobbies: I love to do electronic music composing 
 
 ### Connect with me:
+
 [<img align="left" alt="DevKahtz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="DevKahtz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Devkahtz | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
-
 
 <br />
 
