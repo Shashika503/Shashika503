@@ -19,6 +19,8 @@
 
 <br />
 
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,6 +45,7 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="threejs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" />
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashika503&theme=blue-green)
 
 [gmail]:https://www.kahatapitiyagsj@gmail.com
 [linkedin]: https://www.linkedin.com/in/shashika-kahatapitiya-17a590209/
