@@ -25,7 +25,7 @@
 <br />
 <br />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Shashika503&show_icons=true)
 
 ### Languages and Tools:
 
