@@ -22,6 +22,10 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashika503&theme=blue-green)
 
+<br />
+<br />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
 
 ### Languages and Tools:
 
