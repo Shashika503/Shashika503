@@ -19,6 +19,7 @@
 
 <br />
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashika503&theme=blue-green)
 
 
 ### Languages and Tools:
@@ -47,7 +48,6 @@
 
 <br/>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashika503&theme=blue-green)
 
 [gmail]:https://www.kahatapitiyagsj@gmail.com
 [linkedin]: https://www.linkedin.com/in/shashika-kahatapitiya-17a590209/
